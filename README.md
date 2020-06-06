@@ -1,8 +1,8 @@
 # OMR
 ## overview
 
-      OMR is an application to grade students. The system typically used in universities to grade students and mark exam papers is complex , expensive and not flexible at all . Universities buy expensive hardware machines and specific paper type and that made the deployment of the electronic grading hard and not very likely to be used. 
-       Our system solves this problem by letting the doctors design their own exam paper and grade students, it also benefits the students themselves by providing a complete website for complaints saving money , time and effort of such a long process. Using artificial intelligence (AI) and image processing techniques we’ve been able to provide the most efficient and simple app for a complete student grading system, helping the education in Egypt to be an easy sufficient experience and that’s our main goal.
+ ####    OMR is an application to grade students. The system typically used in universities to grade students and mark exam papers is complex , expensive and not flexible at all . Universities buy expensive hardware machines and specific paper type and that made the deployment of the electronic grading hard and not very likely to be used. 
+  ####     Our system solves this problem by letting the doctors design their own exam paper and grade students, it also benefits the students themselves by providing a complete website for complaints saving money , time and effort of such a long process. Using artificial intelligence (AI) and image processing techniques we’ve been able to provide the most efficient and simple app for a complete student grading system, helping the education in Egypt to be an easy sufficient experience and that’s our main goal.
 
 ### Technologies
 Python :(Basic Language). 
